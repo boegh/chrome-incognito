@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Chrome Incognito Button",
-  "version": "0.1",
+  "version": "1.0",
   "description": "Adds an \"Open this page in a maximized, incognito window\"-button.",
 
   "permissions": ["tabs"],
@@ -12,7 +12,7 @@
   },
 
   "browser_action": {
-    "default_title": "Incognito"
+    "default_title": "Open this page in a maximized, incognito window"
   },
 
   "background": {
